@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo Andrey | @rodrigoandrey
-- 👀 I’m interested in web development, DevOps, Cloud
+- 👀 I’m interested in Python, Web Development, DevOps and Cloud
 - 🌱 I’m currently learning JavaScript, AWS
 - 💞️ I am looking for a job opportunity in web development
 - 📫 How to reach me:
